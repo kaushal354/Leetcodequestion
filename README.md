@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kaushal354/Leetcodequestion/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/kaushal354/Leetcodequestion/tree/master/0056-merge-intervals) |
+| [0455-assign-cookies](https://github.com/kaushal354/Leetcodequestion/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,4 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/kaushal354/Leetcodequestion/tree/master/0056-merge-intervals) |
+| [0455-assign-cookies](https://github.com/kaushal354/Leetcodequestion/tree/master/0455-assign-cookies) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/kaushal354/Leetcodequestion/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/kaushal354/Leetcodequestion/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
