@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kaushal354/Leetcodequestion/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/kaushal354/Leetcodequestion/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/kaushal354/Leetcodequestion/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/kaushal354/Leetcodequestion/tree/master/0073-set-matrix-zeroes) |
 | [0455-assign-cookies](https://github.com/kaushal354/Leetcodequestion/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/kaushal354/Leetcodequestion/tree/master/0890-lemonade-change) |
 ## Hash Table
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kaushal354/Leetcodequestion/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaushal354/Leetcodequestion/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/kaushal354/Leetcodequestion/tree/master/0073-set-matrix-zeroes) |
 ## Sorting
 |  |
 | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/kaushal354/Leetcodequestion/tree/master/0055-jump-game) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/kaushal354/Leetcodequestion/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
