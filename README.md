@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kaushal354/Leetcodequestion/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/kaushal354/Leetcodequestion/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/kaushal354/Leetcodequestion/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/kaushal354/Leetcodequestion/tree/master/0890-lemonade-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/kaushal354/Leetcodequestion/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/kaushal354/Leetcodequestion/tree/master/0890-lemonade-change) |
 ## String
 |  |
 | ------- |
