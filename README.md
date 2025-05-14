@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/kaushal354/Leetcodequestion/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/kaushal354/Leetcodequestion/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/kaushal354/Leetcodequestion/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/kaushal354/Leetcodequestion/tree/master/0079-word-search) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaushal354/Leetcodequestion/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/kaushal354/Leetcodequestion/tree/master/0238-product-of-array-except-self) |
 | [0455-assign-cookies](https://github.com/kaushal354/Leetcodequestion/tree/master/0455-assign-cookies) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaushal354/Leetcodequestion/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0079-word-search](https://github.com/kaushal354/Leetcodequestion/tree/master/0079-word-search) |
 | [0344-reverse-string](https://github.com/kaushal354/Leetcodequestion/tree/master/0344-reverse-string) |
 ## Sliding Window
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/kaushal354/Leetcodequestion/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/kaushal354/Leetcodequestion/tree/master/0079-word-search) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kaushal354/Leetcodequestion/tree/master/0238-product-of-array-except-self) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/kaushal354/Leetcodequestion/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/kaushal354/Leetcodequestion/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
