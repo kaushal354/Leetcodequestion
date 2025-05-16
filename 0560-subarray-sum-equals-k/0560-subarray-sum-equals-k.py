@@ -1,18 +1,20 @@
 class Solution(object):
-    def subarraySum(self, nums, k):
-        from collections import defaultdict
-        prefix_sum_count = defaultdict(int)
-        prefix_sum_count[0] = 1
-        curr_sum = 0
+    def subarraySum(self,nums, k):
+        prefix_sum = 0
         count = 0
-        
+        hashmap = {0: 1}  # To handle subarrays starting from index 0
+
         for num in nums:
-            curr_sum += num
-            if curr_sum - k in prefix_sum_count:
-                count += prefix_sum_count[curr_sum - k]
-            prefix_sum_count[curr_sum] += 1
-            
+            prefix_sum += num
+
+            if prefix_sum - k in hashmap:
+                count += hashmap[prefix_sum - k]
+
+            # Update the hashmap
+            hashmap[prefix_sum] = hashmap.get(prefix_sum, 0) + 1
+
         return count
+
 
 nums = [1, 1, 1]
 k = 2
