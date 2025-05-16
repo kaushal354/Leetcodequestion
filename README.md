@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kaushal354/Leetcodequestion/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/kaushal354/Leetcodequestion/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/kaushal354/Leetcodequestion/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/kaushal354/Leetcodequestion/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/kaushal354/Leetcodequestion/tree/master/0073-set-matrix-zeroes) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kaushal354/Leetcodequestion/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/kaushal354/Leetcodequestion/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaushal354/Leetcodequestion/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/kaushal354/Leetcodequestion/tree/master/0344-reverse-string) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kaushal354/Leetcodequestion/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/kaushal354/Leetcodequestion/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/kaushal354/Leetcodequestion/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/kaushal354/Leetcodequestion/tree/master/0890-lemonade-change) |
