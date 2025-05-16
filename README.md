@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/kaushal354/Leetcodequestion/tree/master/0079-word-search) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaushal354/Leetcodequestion/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/kaushal354/Leetcodequestion/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/kaushal354/Leetcodequestion/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/kaushal354/Leetcodequestion/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/kaushal354/Leetcodequestion/tree/master/0560-subarray-sum-equals-k) |
 | [0890-lemonade-change](https://github.com/kaushal354/Leetcodequestion/tree/master/0890-lemonade-change) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kaushal354/Leetcodequestion/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/kaushal354/Leetcodequestion/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaushal354/Leetcodequestion/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/kaushal354/Leetcodequestion/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/kaushal354/Leetcodequestion/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/kaushal354/Leetcodequestion/tree/master/0455-assign-cookies) |
 ## Greedy
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaushal354/Leetcodequestion/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/kaushal354/Leetcodequestion/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -100,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kaushal354/Leetcodequestion/tree/master/0053-maximum-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/kaushal354/Leetcodequestion/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
