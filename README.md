@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaushal354/Leetcodequestion/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/kaushal354/Leetcodequestion/tree/master/0238-product-of-array-except-self) |
 | [0455-assign-cookies](https://github.com/kaushal354/Leetcodequestion/tree/master/0455-assign-cookies) |
+| [0560-subarray-sum-equals-k](https://github.com/kaushal354/Leetcodequestion/tree/master/0560-subarray-sum-equals-k) |
 | [0890-lemonade-change](https://github.com/kaushal354/Leetcodequestion/tree/master/0890-lemonade-change) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kaushal354/Leetcodequestion/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaushal354/Leetcodequestion/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/kaushal354/Leetcodequestion/tree/master/0073-set-matrix-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/kaushal354/Leetcodequestion/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kaushal354/Leetcodequestion/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/kaushal354/Leetcodequestion/tree/master/0560-subarray-sum-equals-k) |
 ## Backtracking
 |  |
 | ------- |
