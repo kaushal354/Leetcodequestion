@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/kaushal354/Leetcodequestion/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/kaushal354/Leetcodequestion/tree/master/0560-subarray-sum-equals-k) |
 | [0890-lemonade-change](https://github.com/kaushal354/Leetcodequestion/tree/master/0890-lemonade-change) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/kaushal354/Leetcodequestion/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
