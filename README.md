@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/kaushal354/Leetcodequestion/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/kaushal354/Leetcodequestion/tree/master/0560-subarray-sum-equals-k) |
 | [0890-lemonade-change](https://github.com/kaushal354/Leetcodequestion/tree/master/0890-lemonade-change) |
+| [0907-koko-eating-bananas](https://github.com/kaushal354/Leetcodequestion/tree/master/0907-koko-eating-bananas) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kaushal354/Leetcodequestion/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kaushal354/Leetcodequestion/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaushal354/Leetcodequestion/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/kaushal354/Leetcodequestion/tree/master/0287-find-the-duplicate-number) |
+| [0907-koko-eating-bananas](https://github.com/kaushal354/Leetcodequestion/tree/master/0907-koko-eating-bananas) |
 ## Prefix Sum
 |  |
 | ------- |
