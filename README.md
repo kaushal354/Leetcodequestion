@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/kaushal354/Leetcodequestion/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kaushal354/Leetcodequestion/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/kaushal354/Leetcodequestion/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/kaushal354/Leetcodequestion/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kaushal354/Leetcodequestion/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaushal354/Leetcodequestion/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/kaushal354/Leetcodequestion/tree/master/0238-product-of-array-except-self) |
@@ -48,12 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/kaushal354/Leetcodequestion/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/kaushal354/Leetcodequestion/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/kaushal354/Leetcodequestion/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/kaushal354/Leetcodequestion/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kaushal354/Leetcodequestion/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/kaushal354/Leetcodequestion/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/kaushal354/Leetcodequestion/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaushal354/Leetcodequestion/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/kaushal354/Leetcodequestion/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/kaushal354/Leetcodequestion/tree/master/0344-reverse-string) |
