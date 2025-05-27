@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/kaushal354/Leetcodequestion/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/kaushal354/Leetcodequestion/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/kaushal354/Leetcodequestion/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/kaushal354/Leetcodequestion/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/kaushal354/Leetcodequestion/tree/master/0560-subarray-sum-equals-k) |
 | [0890-lemonade-change](https://github.com/kaushal354/Leetcodequestion/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/kaushal354/Leetcodequestion/tree/master/0907-koko-eating-bananas) |
