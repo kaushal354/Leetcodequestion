@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kaushal354/Leetcodequestion/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/kaushal354/Leetcodequestion/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kaushal354/Leetcodequestion/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/kaushal354/Leetcodequestion/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/kaushal354/Leetcodequestion/tree/master/0560-subarray-sum-equals-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/kaushal354/Leetcodequestion/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kaushal354/Leetcodequestion/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kaushal354/Leetcodequestion/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kaushal354/Leetcodequestion/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/kaushal354/Leetcodequestion/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/kaushal354/Leetcodequestion/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaushal354/Leetcodequestion/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/kaushal354/Leetcodequestion/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/kaushal354/Leetcodequestion/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/kaushal354/Leetcodequestion/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kaushal354/Leetcodequestion/tree/master/0344-reverse-string) |
 ## Sliding Window
 |  |
