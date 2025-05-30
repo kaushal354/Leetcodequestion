@@ -1,10 +1,14 @@
-
 class Solution(object):
-    def findDuplicate(self,nums):
-        nums.sort()
-        for i in range(0,len(nums)-1):
-            if nums[i] == nums[i+1]:
-                return nums[i]
-                
-        
-        
+    def findDuplicate(self, nums):
+        slow = nums[0]
+        fast = nums[0]
+        while True:
+            slow = nums[slow]
+            fast = nums[nums[fast]]
+            if slow == fast:
+                break
+        slow = nums[0]
+        while slow != fast:
+            slow = nums[slow]
+            fast = nums[fast]
+        return slow
