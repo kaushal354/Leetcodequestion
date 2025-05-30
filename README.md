@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kaushal354/Leetcodequestion/tree/master/0002-add-two-numbers) |
+| [3227-find-missing-and-repeated-values](https://github.com/kaushal354/Leetcodequestion/tree/master/3227-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/kaushal354/Leetcodequestion/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/kaushal354/Leetcodequestion/tree/master/0907-koko-eating-bananas) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kaushal354/Leetcodequestion/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [3227-find-missing-and-repeated-values](https://github.com/kaushal354/Leetcodequestion/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kaushal354/Leetcodequestion/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kaushal354/Leetcodequestion/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/kaushal354/Leetcodequestion/tree/master/0560-subarray-sum-equals-k) |
+| [3227-find-missing-and-repeated-values](https://github.com/kaushal354/Leetcodequestion/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/kaushal354/Leetcodequestion/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/kaushal354/Leetcodequestion/tree/master/0079-word-search) |
+| [3227-find-missing-and-repeated-values](https://github.com/kaushal354/Leetcodequestion/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
