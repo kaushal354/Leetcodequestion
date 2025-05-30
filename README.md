@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kaushal354/Leetcodequestion/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/kaushal354/Leetcodequestion/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/kaushal354/Leetcodequestion/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/kaushal354/Leetcodequestion/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/kaushal354/Leetcodequestion/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kaushal354/Leetcodequestion/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaushal354/Leetcodequestion/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kaushal354/Leetcodequestion/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaushal354/Leetcodequestion/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/kaushal354/Leetcodequestion/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/kaushal354/Leetcodequestion/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/kaushal354/Leetcodequestion/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/kaushal354/Leetcodequestion/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kaushal354/Leetcodequestion/tree/master/0229-majority-element-ii) |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/kaushal354/Leetcodequestion/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kaushal354/Leetcodequestion/tree/master/0229-majority-element-ii) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/kaushal354/Leetcodequestion/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
