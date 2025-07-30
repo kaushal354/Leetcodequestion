@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/kaushal354/Leetcodequestion/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/kaushal354/Leetcodequestion/tree/master/0907-koko-eating-bananas) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kaushal354/Leetcodequestion/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2104-operations-on-tree](https://github.com/kaushal354/Leetcodequestion/tree/master/2104-operations-on-tree) |
 | [3227-find-missing-and-repeated-values](https://github.com/kaushal354/Leetcodequestion/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/kaushal354/Leetcodequestion/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kaushal354/Leetcodequestion/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/kaushal354/Leetcodequestion/tree/master/0560-subarray-sum-equals-k) |
+| [2104-operations-on-tree](https://github.com/kaushal354/Leetcodequestion/tree/master/2104-operations-on-tree) |
 | [3227-find-missing-and-repeated-values](https://github.com/kaushal354/Leetcodequestion/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/kaushal354/Leetcodequestion/tree/master/0079-word-search) |
+| [2104-operations-on-tree](https://github.com/kaushal354/Leetcodequestion/tree/master/2104-operations-on-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -169,4 +172,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/kaushal354/Leetcodequestion/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/kaushal354/Leetcodequestion/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/kaushal354/Leetcodequestion/tree/master/1908-recyclable-and-low-fat-products) |
+## Tree
+|  |
+| ------- |
+| [2104-operations-on-tree](https://github.com/kaushal354/Leetcodequestion/tree/master/2104-operations-on-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2104-operations-on-tree](https://github.com/kaushal354/Leetcodequestion/tree/master/2104-operations-on-tree) |
+## Design
+|  |
+| ------- |
+| [2104-operations-on-tree](https://github.com/kaushal354/Leetcodequestion/tree/master/2104-operations-on-tree) |
 <!---LeetCode Topics End-->
