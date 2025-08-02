@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kaushal354/Leetcodequestion/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/kaushal354/Leetcodequestion/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/kaushal354/Leetcodequestion/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kaushal354/Leetcodequestion/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/kaushal354/Leetcodequestion/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/kaushal354/Leetcodequestion/tree/master/0169-majority-element) |
 ## Bit Manipulation
@@ -184,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2104-operations-on-tree](https://github.com/kaushal354/Leetcodequestion/tree/master/2104-operations-on-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kaushal354/Leetcodequestion/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kaushal354/Leetcodequestion/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
